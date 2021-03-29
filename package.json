@@ -1,0 +1,24 @@
+{
+  "name": "mocha-chai-wn21",
+  "version": "1.0.0",
+  "description": "a repo which i work with Mocha js and Chai JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohamadOuf/mocha-chai-wn21.git"
+  },
+  "author": "Mohamad Ouf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohamadOuf/mocha-chai-wn21/issues"
+  },
+  "homepage": "https://github.com/MohamadOuf/mocha-chai-wn21#readme",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2",
+    "nyc": "^15.1.0"
+  }
+}
